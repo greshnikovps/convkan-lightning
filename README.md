@@ -19,7 +19,7 @@ pip install convkan
 From source:
 
 ```bash
-git clone git@github.com:StarostinV/convkan.git
+git clone git@github.com:greshnikovps/convkan-lightning.git
 cd convkan
 pip install .
 ```
